@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h3 align="center">A backend Java / Spring Boot / Microservice developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitesh-kumar-sharma&label=Profile%20views&color=0e75b6&style=flat" alt="nitesh-kumar-sharma" /> </p>
