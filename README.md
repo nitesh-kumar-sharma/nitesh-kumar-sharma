@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nitesh-kumar-sharma)](https://github.com/ryo-ma/github-profile-trophy)
+<h3 align="center">A backend Java / Spring Boot / Microservice developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitesh-kumar-sharma&label=Profile%20views&color=0e75b6&style=flat" alt="nitesh-kumar-sharma" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitesh-kumar-sharma" alt="nitesh-kumar-sharma" /></a> </p>
 
 <!--
 **nitesh-kumar-sharma/nitesh-kumar-sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
